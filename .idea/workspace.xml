@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c6bc783-f79d-45f4-aa55-e062f754b81c" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9c6bc783-f79d-45f4-aa55-e062f754b81c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +126,7 @@
       <workItem from="1622083205371" duration="790000" />
       <workItem from="1622174611371" duration="302000" />
       <workItem from="1622500297657" duration="1720000" />
-      <workItem from="1622999383386" duration="1746000" />
+      <workItem from="1622999383386" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1597713974972</created>
@@ -153,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623001187742</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Remove Idea folder">
+      <created>1623001235290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623001235290</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +166,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Updated Push" />
     <MESSAGE value="Removed node mobules" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed node mobules" />
+    <MESSAGE value="Remove Idea folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Idea folder" />
   </component>
 </project>
