@@ -10,6 +10,7 @@ import FavoriteApi from "../../api/favorite.api";
 const mapStateToProps = (state) => {
 	return {
 		favorites: state.list,
+		banana: state.name,
 	};
 };
 

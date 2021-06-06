@@ -5,6 +5,7 @@ const initialState = {
 	books_home: BookCollection,
 	books_favorite: BookCollection,
 	list: [],
+	name: '',
 };
 
 const rootReducer = (state = initialState, action) => {

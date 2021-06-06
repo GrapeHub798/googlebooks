@@ -41,7 +41,7 @@ routes.post('/books', (req, res) => {
 
 	const newBook = new Book({
 		id: favorite.id,
-		title: favorite.title,
+		titleid: favorite.title,
 		authors: favorite.authors,
 		description: favorite.description,
 		image: favorite.image,
